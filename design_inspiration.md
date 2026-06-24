@@ -39,21 +39,3 @@ A NYC creative studio website using a strict linear grid, experimental typograph
   - Structure navigation as inline links within content rather than separate navigation bar
 
 `#portfolio #grid-system #minimalist #creative-studio #experimental #typography-driven #nyc #monospace #brutalist #b2b`
-
-### Minimalist Code Counter
-*2026-06-24 · Landing page · [source](https://off-brand.studio/)*
-
-Brutalist loading screen or hero state with a single monospace counter [091] centered on pure black. Ultra-reduced interface language that conveys precision, experimental tech, and high-end restraint.
-
-- **Palette:** #000000, #FFFFFF
-- **Type:** Monospace, all-caps counter with square brackets [091]. Small letterspacing, tight kerning. Appears to be a fixed-width system font (likely Courier or similar).
-- **Layout:** Dead-center composition. Counter floats in the void with breathing room. Grid/linear structure referenced in site content — suggests everything else is hidden or progressively revealed.
-- **Mood:** brutalist, minimal, technical, avant-garde, exclusive
-- **Take:**
-  - Use a single data point (counter/index) as the sole entry point to signal experimental or research-driven brand positioning
-  - Pair monospace with extreme whitespace and pure black for instant credibility in tech/creative fields
-  - Hide primary navigation/content initially — make visitors wait or interact to unlock the full experience
-  - Brackets and numerical indexing suggest catalog/archive language — reusable for portfolio or product studios
-  - Pure black + white contrast eliminates distraction; forces focus on interaction and progression
-
-`#brutalist #loading-state #monospace #counter #experimental #minimal-hero #tech-studio #off-brand-studio #nyc-creative`
