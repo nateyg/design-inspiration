@@ -47,41 +47,5 @@
     "thumbnail": "2026-06-24-neon-pixelated-grid-chaos-ska3.png",
     "enabled": true,
     "userNote": "Wild but fun"
-  },
-  {
-    "id": "2026-06-23-linear-dark-saas-navigation-hero-6id6",
-    "date": "2026-06-23",
-    "title": "Linear: Dark SaaS Navigation & Hero",
-    "summary": "Linear's landing page header demonstrates minimal dark-mode sophistication with a clean horizontal navigation, geometric wordmark, and stark black hero background. The approach prioritizes clarity and premium positioning through extreme whitespace and geometric precision.",
-    "category": "Landing page</category>\n<parameter name=\"mood\">[\"minimal\", \"premium\", \"tech-forward\", \"dark\", \"focused\"]",
-    "palette": [
-      "#000000",
-      "#FFFFFF",
-      "#F5F5F5"
-    ],
-    "typography": "Clean sans-serif (appears to be system font or similar minimal stack). Navigation uses regular weight ~14-16px. \"Sign up\" button uses bold weight on white background.",
-    "layout": "Fixed horizontal navigation with symmetric spacing; logo flush-left, navigation menu center-distributed, auth buttons right-aligned. Hero section occupies full-bleed black viewport with ample breathing room. Very generous padding and whitespace creates a \"less is more\" hierarchy.",
-    "mood": [],
-    "takeaways": [
-      "Use full-bleed black hero with ample whitespace to signal premium positioning and reduce cognitive load",
-      "Right-align authentication CTAs while keeping primary nav centered—creates visual balance without clutter",
-      "Pair minimal geometric wordmark with generous padding in nav bar (~20-32px) to avoid cramped feeling",
-      "Let negative space work harder than content; the emptiness itself conveys confidence and clarity",
-      "Fixed nav should maintain consistent vertical padding (appears ~16-20px) to feel anchored but not heavy"
-    ],
-    "tags": [
-      "navigation",
-      "dark-mode",
-      "saas",
-      "minimal",
-      "hero",
-      "tech",
-      "whitespace",
-      "premium"
-    ],
-    "source": "https://linear.app",
-    "thumbnail": "2026-06-23-linear-dark-saas-navigation-hero-6id6.jpg",
-    "enabled": true,
-    "userNote": ""
   }
 ]
