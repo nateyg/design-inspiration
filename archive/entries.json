@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-06-24-minimalist-code-counter-qezd",
+    "date": "2026-06-24",
+    "title": "Minimalist Code Counter",
+    "summary": "Brutalist loading screen or hero state with a single monospace counter [091] centered on pure black. Ultra-reduced interface language that conveys precision, experimental tech, and high-end restraint.",
+    "category": "Landing page",
+    "palette": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "typography": "Monospace, all-caps counter with square brackets [091]. Small letterspacing, tight kerning. Appears to be a fixed-width system font (likely Courier or similar).",
+    "layout": "Dead-center composition. Counter floats in the void with breathing room. Grid/linear structure referenced in site content — suggests everything else is hidden or progressively revealed.",
+    "mood": [
+      "brutalist",
+      "minimal",
+      "technical",
+      "avant-garde",
+      "exclusive"
+    ],
+    "takeaways": [
+      "Use a single data point (counter/index) as the sole entry point to signal experimental or research-driven brand positioning",
+      "Pair monospace with extreme whitespace and pure black for instant credibility in tech/creative fields",
+      "Hide primary navigation/content initially — make visitors wait or interact to unlock the full experience",
+      "Brackets and numerical indexing suggest catalog/archive language — reusable for portfolio or product studios",
+      "Pure black + white contrast eliminates distraction; forces focus on interaction and progression"
+    ],
+    "tags": [
+      "brutalist",
+      "loading-state",
+      "monospace",
+      "counter",
+      "experimental",
+      "minimal-hero",
+      "tech-studio",
+      "off-brand-studio",
+      "nyc-creative"
+    ],
+    "source": "https://off-brand.studio/",
+    "thumbnail": "2026-06-24-minimalist-code-counter-qezd.png",
+    "enabled": true,
+    "userNote": ""
+  },
+  {
     "id": "2026-06-24-off-brand-minimalist-studio-grid-a6c4",
     "date": "2026-06-24",
     "title": "Off–Brand: Minimalist Studio Grid",
