@@ -22,3 +22,21 @@ A vibrant y2k-inspired feed interface layered with a high-contrast monochrome fi
   - Small UI affordances (icons, buttons) at bottom don't need to match the chaos—understated nav creates breathing room
 
 `#pixelated #neon #y2k #grid-layout #mobile-feed #color-blocking #contrast #chaotic-composition #retro-futurism`
+
+### Nate Gagnon Portfolio Hero
+*2026-06-24 · Portfolio · [source](https://nategagnon.com/)*
+
+Minimalist creative director portfolio with an interactive hero section featuring large-scale typography and a directional "Click anywhere" call-to-action. The design prioritizes immediacy and playfulness with subtle interactive cues.
+
+- **Palette:** white, black, high-contrast
+- **Type:** Large-scale, bold sans-serif headline typography ("Hi, I'm Nate") paired with smaller supporting text. The scale hierarchy creates immediate visual impact and encourages exploration.
+- **Layout:** Full-screen hero with centered, hierarchical text arrangement. Generous whitespace dominates. Keyboard shortcut hint (⌘_) suggests hidden depth and encourages interaction.
+- **Mood:** minimal, playful, confident, interactive
+- **Take:**
+  - Use dramatic typography scale as primary design element on portfolio hero
+  - Employ subtle interactive hints (keyboard shortcuts, 'click anywhere') to invite exploration without being pushy
+  - Trust whitespace and minimalism to let role/credentials speak for themselves
+  - Combine role indicators (CD/CW/XD) into compact hero to establish credibility upfront
+  - Design for curiosity-driven interaction rather than navigation clarity
+
+`#portfolio #hero #minimal #interactive #typography-driven #creative-director #whitespace #call-to-action`
