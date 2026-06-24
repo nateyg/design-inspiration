@@ -1,46 +1,5 @@
 [
   {
-    "id": "2026-06-24-nate-gagnon-portfolio-hero-dqcc",
-    "date": "2026-06-24",
-    "title": "Nate Gagnon Portfolio Hero",
-    "summary": "Minimalist creative director portfolio with an interactive hero section featuring large-scale typography and a directional \"Click anywhere\" call-to-action. The design prioritizes immediacy and playfulness with subtle interactive cues.",
-    "category": "Portfolio",
-    "palette": [
-      "white",
-      "black",
-      "high-contrast"
-    ],
-    "typography": "Large-scale, bold sans-serif headline typography (\"Hi, I'm Nate\") paired with smaller supporting text. The scale hierarchy creates immediate visual impact and encourages exploration.",
-    "layout": "Full-screen hero with centered, hierarchical text arrangement. Generous whitespace dominates. Keyboard shortcut hint (⌘_) suggests hidden depth and encourages interaction.",
-    "mood": [
-      "minimal",
-      "playful",
-      "confident",
-      "interactive"
-    ],
-    "takeaways": [
-      "Use dramatic typography scale as primary design element on portfolio hero",
-      "Employ subtle interactive hints (keyboard shortcuts, 'click anywhere') to invite exploration without being pushy",
-      "Trust whitespace and minimalism to let role/credentials speak for themselves",
-      "Combine role indicators (CD/CW/XD) into compact hero to establish credibility upfront",
-      "Design for curiosity-driven interaction rather than navigation clarity"
-    ],
-    "tags": [
-      "portfolio",
-      "hero",
-      "minimal",
-      "interactive",
-      "typography-driven",
-      "creative-director",
-      "whitespace",
-      "call-to-action"
-    ],
-    "source": "https://nategagnon.com/",
-    "thumbnail": null,
-    "enabled": true,
-    "userNote": ""
-  },
-  {
     "id": "2026-06-24-neon-pixelated-grid-chaos-ska3",
     "date": "2026-06-24",
     "title": "Neon pixelated grid chaos",
