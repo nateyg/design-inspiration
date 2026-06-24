@@ -23,20 +23,20 @@ A vibrant y2k-inspired feed interface layered with a high-contrast monochrome fi
 
 `#pixelated #neon #y2k #grid-layout #mobile-feed #color-blocking #contrast #chaotic-composition #retro-futurism`
 
-### Nate Gagnon Portfolio Hero
-*2026-06-24 · Portfolio · [source](https://nategagnon.com/)*
+### Minimalist Code Counter
+*2026-06-24 · Landing page · [source](https://off-brand.studio/)*
 
-Minimalist creative director portfolio with an interactive hero section featuring large-scale typography and a directional "Click anywhere" call-to-action. The design prioritizes immediacy and playfulness with subtle interactive cues.
+Brutalist loading screen or hero state with a single monospace counter [091] centered on pure black. Ultra-reduced interface language that conveys precision, experimental tech, and high-end restraint.
 
-- **Palette:** white, black, high-contrast
-- **Type:** Large-scale, bold sans-serif headline typography ("Hi, I'm Nate") paired with smaller supporting text. The scale hierarchy creates immediate visual impact and encourages exploration.
-- **Layout:** Full-screen hero with centered, hierarchical text arrangement. Generous whitespace dominates. Keyboard shortcut hint (⌘_) suggests hidden depth and encourages interaction.
-- **Mood:** minimal, playful, confident, interactive
+- **Palette:** #000000, #FFFFFF
+- **Type:** Monospace, all-caps counter with square brackets [091]. Small letterspacing, tight kerning. Appears to be a fixed-width system font (likely Courier or similar).
+- **Layout:** Dead-center composition. Counter floats in the void with breathing room. Grid/linear structure referenced in site content — suggests everything else is hidden or progressively revealed.
+- **Mood:** brutalist, minimal, technical, avant-garde, exclusive
 - **Take:**
-  - Use dramatic typography scale as primary design element on portfolio hero
-  - Employ subtle interactive hints (keyboard shortcuts, 'click anywhere') to invite exploration without being pushy
-  - Trust whitespace and minimalism to let role/credentials speak for themselves
-  - Combine role indicators (CD/CW/XD) into compact hero to establish credibility upfront
-  - Design for curiosity-driven interaction rather than navigation clarity
+  - Use a single data point (counter/index) as the sole entry point to signal experimental or research-driven brand positioning
+  - Pair monospace with extreme whitespace and pure black for instant credibility in tech/creative fields
+  - Hide primary navigation/content initially — make visitors wait or interact to unlock the full experience
+  - Brackets and numerical indexing suggest catalog/archive language — reusable for portfolio or product studios
+  - Pure black + white contrast eliminates distraction; forces focus on interaction and progression
 
-`#portfolio #hero #minimal #interactive #typography-driven #creative-director #whitespace #call-to-action`
+`#brutalist #loading-state #monospace #counter #experimental #minimal-hero #tech-studio #off-brand-studio #nyc-creative`
