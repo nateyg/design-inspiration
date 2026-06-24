@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026-06-24-off-brand-minimalist-studio-grid-a6c4",
+    "date": "2026-06-24",
+    "title": "Off–Brand: Minimalist Studio Grid",
+    "summary": "A NYC creative studio website using a strict linear grid, experimental typography, and sparse layout to communicate a research-driven, high-craft ethos. The restraint and \"zero and ones\" conceptual framing create an intellectually confident, forward-thinking presence.",
+    "category": "Portfolio",
+    "palette": "Likely high-contrast monochrome (black/white/grey); potentially one accent color for links or interactive elements; clean, digital-first palette.",
+    "typography": "Appears to use a monospaced or structured sans-serif family; mixed case with deliberate capitalization breaks; numbering (004, 100) as navigation/labeling device; tightly tracked type for hierarchy and rhythm.",
+    "layout": "Strict linear grid system; generous white space; text-heavy with strategic visual hierarchy; modular card/section blocks; numbered project list; footer elements aligned to grid.",
+    "mood": [
+      "minimalist",
+      "experimental",
+      "technical",
+      "intellectual",
+      "refined"
+    ],
+    "takeaways": [
+      "Use numbered system or counter increments to structure portfolio sections and create a sense of order",
+      "Leverage whitespace aggressively to signal sophistication and craft",
+      "Mix case (lowercase headers, caps accents) to establish personality within minimal constraints",
+      "Organize team/credits in clean, scannable grid format rather than prose",
+      "Use conceptual language ('zeros & ones', 'experimental research') paired with minimal visual to elevate positioning",
+      "Structure navigation as inline links within content rather than separate navigation bar"
+    ],
+    "tags": [
+      "portfolio",
+      "grid-system",
+      "minimalist",
+      "creative-studio",
+      "experimental",
+      "typography-driven",
+      "nyc",
+      "monospace",
+      "brutalist",
+      "b2b"
+    ],
+    "source": "https://off-brand.studio/",
+    "thumbnail": null,
+    "enabled": true,
+    "userNote": ""
+  },
+  {
     "id": "2026-06-24-neon-pixelated-grid-chaos-ska3",
     "date": "2026-06-24",
     "title": "Neon pixelated grid chaos",
