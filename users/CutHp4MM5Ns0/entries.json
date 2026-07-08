@@ -1,0 +1,49 @@
+[
+  {
+    "id": "2026-07-08-generative-calm-p8g9",
+    "date": "2026-07-08",
+    "title": "Generative Calm",
+    "summary": "A meditative, full-screen ambient interface where location-based generative music is centered as the primary experience. The minimalist layout uses monochromatic text and a serene blue gradient to create space for sound visualization and contemplation.",
+    "category": "Landing page",
+    "palette": [
+      "#2E7FBE",
+      "#4E9FD6",
+      "sky blue gradient",
+      "muted teal text"
+    ],
+    "typography": "Monospaced serif or system font, all-caps, letter-spaced, uppercase; hierarchy through scale and position rather than weight or color. Text rendered in subdued teal/slate against the blue background for low contrast, supporting quiet introspection.",
+    "layout": "Centered vertical axis with three distinct zones: long-form descriptive text block in the upper-middle (two paragraph breaks), prominent call-to-action (\"TOUCH TO BEGIN\") below at center, and footer attribution at bottom. Massive surrounding white space (blue negative space) creates focus and breathing room. No sidebar, nav, or chrome—pure content-first.",
+    "mood": [
+      "meditative",
+      "ethereal",
+      "minimal",
+      "contemplative",
+      "procedural"
+    ],
+    "takeaways": [
+      "Use generous vertical rhythm and whitespace to create stillness and encourage slow reading—especially for conceptual/philosophical copy",
+      "Monospaced uppercase typography reads as technical yet approachable; pair with tight letter-spacing for a modern, crafted look",
+      "Center a single call-to-action low on the page to guide the next step without visual noise or urgency",
+      "Muted, low-contrast text (slate on blue) signals introspection and calm over high-impact visual hierarchy",
+      "A gradient or solid calm color field as the entire background reduces cognitive load and supports immersive, focused experiences"
+    ],
+    "tags": [
+      "generative",
+      "ambient",
+      "minimal",
+      "monospace",
+      "centered",
+      "full-screen",
+      "immersive",
+      "procedural",
+      "interactive",
+      "sound-art",
+      "location-based",
+      "contemplative"
+    ],
+    "source": "https://fieldtone.vercel.app/",
+    "thumbnail": "2026-07-08-generative-calm-p8g9.png",
+    "enabled": true,
+    "userNote": ""
+  }
+]
